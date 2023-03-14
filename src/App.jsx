@@ -31,10 +31,10 @@ function App() {
           </div>
         </div>
       </section>
-      <div class="attribution">
+      <footer class="attribution">
         Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">Frontend Mentor</a>. 
         Coded by <a href="https://www.frontendmentor.io/profile/Schade9" target="_blank" rel="noreferrer">Ssemakula Charles Derrick</a>.
-      </div>
+      </footer>
     </main>
   );
 }
