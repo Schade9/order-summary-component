@@ -1,5 +1,6 @@
 main {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 100%;
@@ -111,4 +112,35 @@ a:hover {
 .cancel:hover {
   color: red;
   font-size: 15px;
+}
+
+.attribution {
+  padding-top: 60px;
+}
+
+@media screen and (max-width: 376px) {
+  main {
+    height: 110v;
+    width: 400px;
+  }
+
+  section {
+    width: 350px;
+  }
+
+  .image img {
+    width: 350px;
+  }
+
+  .annual-plan {
+    gap: 35px;
+  }
+
+  .detail {
+    gap: 10px;
+  }
+
+  .buttons {
+    width: 300px;
+  }
 }
