@@ -21,7 +21,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-image.png
+![image](https://user-images.githubusercontent.com/51287876/224951082-aa4f1817-b401-4117-b4ae-9fea59d5ebb0.png)
+
 ### Links
 
 - Solution URL: [Ahttps://github.com/Schade9/order-summary-component](https://your-solution-url.com)
